@@ -1,4 +1,4 @@
-# bropy
+# Bropy
 A lightweight bro log reader for python.
 
 ## Installation
