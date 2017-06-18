@@ -2,7 +2,14 @@
 A lightweight bro log reader for python.
 
 ## Installation
-TODO
+Installation using pip:
+```
+pip install bropy
+```
+Clone repository:
+```
+git clone https://github.com/Thijsvanede/bropy.git
+```
 
 ## Useage
 Use bropy as an iterator:
