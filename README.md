@@ -4,8 +4,8 @@ A lightweight bro log reader for python.
 ## Installation
 TODO
 
-## Use
-Use bropy 
+## Useage
+Use bropy as an iterator:
 ```
 from bropy.bro_log_reader import BroLogReader
 
