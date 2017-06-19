@@ -11,7 +11,7 @@ Clone repository:
 git clone https://github.com/Thijsvanede/bropy.git
 ```
 
-## Useage
+## Usage
 Use bropy as an iterator:
 ```
 from bropy.bro_log_reader import BroLogReader
